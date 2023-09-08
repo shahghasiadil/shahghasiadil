@@ -7,10 +7,8 @@
 
 I'm a passionate Sr. Software Engineer, always looking for new challenges and opportunities to grow and innovate. 
 
-👯 I’m always looking to collaborate on interesting projects and challenges!
-🤔 I’m looking for help with [SPECIFIC CHALLENGE OR TECHNOLOGY].
-🔭 My latest project: [Laravel Env Validator](PROJECT_LINK) - A brief description.
-💬 Ask me about anything tech-related, I'm here to help!
+- 🔭 I’m currently working on building Open Source packages.
+- 👯 I’m looking to collaborate on Open Source Projects.
 
 ## 🛠️ Technologies & Tools
 
