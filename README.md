@@ -1,6 +1,7 @@
 # Hello, I'm Shahghasi Adil 👋
 
-[![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahghasiadil&show_icons=true&theme=radical)](https://github.com/shahghasiadil)
+[![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahghasiadil)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahghasiadil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me 🚀
 
@@ -13,7 +14,7 @@ I'm a passionate Sr. Software Engineer, always looking for new challenges and op
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: JavaScript,TypeScript, PHP, Java, Python.
+- **Languages**: JavaScript, TypeScript, PHP, Java, Python.
 - **Frameworks**: React, Next.js, Vue.js, Node.js, Express.js, Nest.js, Flask, Laravel, CodeIgniter.
 - **Tools**: Git, Docker, Kubernetes, Jira, Linux, AWS, Digital Ocean, DevOps.
 
