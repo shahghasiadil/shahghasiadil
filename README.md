@@ -1,21 +1,27 @@
-### Hi there 👋
+# Hello, I'm Shahghasi Adil 👋
 
-<!--
-**shahghasiadil/shahghasiadil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahghasiadil&show_icons=true&theme=radical)](https://github.com/shahghasiadil)
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Sr. Software Engineer, always looking for new challenges and opportunities to grow and innovate. 
 
-[![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahghasiadil)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahghasiadil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+👯 I’m always looking to collaborate on interesting projects and challenges!
+🤔 I’m looking for help with [SPECIFIC CHALLENGE OR TECHNOLOGY].
+🔭 My latest project: [Laravel Env Validator](PROJECT_LINK) - A brief description.
+💬 Ask me about anything tech-related, I'm here to help!
 
-![Profile Views](https://komarev.com/ghpvc/?username=shahghasiadil&label=Profile%20views&color=0e75b6&style=flat)
+## 🛠️ Technologies & Tools
+
+- **Languages**: JavaScript,TypeScript, PHP, Java, Python.
+- **Frameworks**: React, Next.js, Vue.js, Node.js, Express.js, Nest.js, Flask, Laravel, CodeIgniter.
+- **Tools**: Git, Docker, Kubernetes, Jira, Linux, AWS, Digital Ocean, DevOps.
+
+## Connect with me 🌐
+
+- [LinkedIn](https://linkedin.com/in/shahghasi-adil)
+- [Twitter](https://twitter.com/shahghasi_adil)
+- [Personal Website](https://shahghasi-adil.dev)
+
+---
+⭐️ From [shahghasiadil](https://github.com/shahghasiadil)
