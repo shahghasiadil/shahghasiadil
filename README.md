@@ -1,8 +1,5 @@
 # Hello, I'm Shahghasi Adil 👋
 
-[![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahghasiadil)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahghasiadil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## About Me 🚀
 
 I'm a passionate Sr. Software Engineer, always looking for new challenges and opportunities to grow and innovate. 
@@ -20,7 +17,6 @@ I'm a passionate Sr. Software Engineer, always looking for new challenges and op
 
 - [LinkedIn](https://linkedin.com/in/shahghasi-adil)
 - [Twitter](https://twitter.com/shahghasi_adil)
-- [Personal Website](https://shahghasi-adil.dev)
 
 ---
 ⭐️ From [shahghasiadil](https://github.com/shahghasiadil)
